@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Imen</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
-<p>A highly motivated student and quick learner currently in my second year of engineering school.</p>
+<p>I am a highly motivated student and a quick learner currently in my third year of computer science engineering, specializing in software engineering.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imen-lakhal&label=Profile%20views&color=0e75b6&style=flat" alt="imen-lakhal" /> </p>
 
